@@ -246,7 +246,7 @@ async def greet_new_member(
             button_text = "๏ ᴠɪᴇᴡ ɴᴇᴡ ᴍᴇᴍʙᴇʀ ๏"
             add_button_text = "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏"
             deep_link = f"{user.id}"
-            add_link = f"https://t.me/BRANDED_KUDI_BOT?startgroup=true"
+            add_link = f"http://t.me/Adilaadobot?startgroup=true"
             temp.MELCOW[f"welcome-{member.chat.id}"] = await client.send_photo(
                 member.chat.id,
                 photo=welcomeimg,
