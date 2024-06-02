@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「⛦🦋 ADI LADO ✘ 𝗠𝗨𝗦𝗜𝗖 🦋⛦」──
+    ──「⛦🦋 TriGO ✘ 𝗠𝗨𝗦𝗜𝗖 🦋⛦」──
 </h2>
 
 <p align="center">
